@@ -1,0 +1,482 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+
+.covertext::after {
+  content: "_";
+  display: inline;
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/*====================just some custom code above=========================*/
+.break1{
+	display:none;
+}
+.grid{
+    display:none;
+}
+.s1{
+	width: 100%;
+	height: 100vh;
+	overflow: hidden;
+
+}
+
+#s10{
+	height: 100%;
+}
+
+.cover{
+	width: 100%;
+	height: 100vh;
+	margin: 50vh top;
+	background-image: url("./images/bg1.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+/*	display: flex;
+	justify-content: center;*/
+}
+
+
+.covercover{
+	width: 100%;
+	height:100%;
+	background-color: black;
+	opacity: 80%;
+	position: absolute;
+
+}
+
+.covertext{
+	color: #00A9F2;
+
+	font-size: 2vw;
+
+	position: absolute;
+
+	margin-left:50%;
+	transform: translate(-50%);
+	margin-top: 6.5%;
+	font-family: 'Courier Prime', monospace;
+
+}
+
+
+.si{
+
+	height: 5%;
+	width: 6%;
+	margin-left: 93%;
+	margin-top: 3vh;
+	transform: translate(0%);
+	border-color:1px solid white;
+	background-color: transparent;
+	color: white;
+	border-radius: 3px;
+	font-size: 1vw;
+	font-family: 'Lexend Deca', sans-serif;
+
+}
+
+.su{
+	height: 5%;
+	width: 6%;
+	margin-left: 93%;
+	margin-top: 3vh;
+	transform: translate(0%);
+	border-color:1px solid white;
+	background-color: transparent;
+	color: white;
+	border-radius: 3px;
+	font-size: 1vw;
+	font-family: 'Lexend Deca', sans-serif;
+
+}
+
+h1{
+	color: white;
+	margin-top: 2.5%;
+	margin-left: 50%;
+	transform: translate(-50%);
+	font-size: 2vw;
+	position: absolute;
+	font-family: 'Julius Sans One', sans-serif;
+
+	/*margin-bottom: 50%;*/
+
+
+}
+
+.covercontent{
+	height: 40%;
+	color: white;
+	position: absolute;
+	margin-top: 20%;
+	margin-left: 40%; 
+	padding:10px 40px 10px 50px;
+	font-family: 'Poiret One', cursive;
+	font-size: 1.5vw;
+	overflow: hidden;/*
+	border-style: solid;
+	border-color: red;
+	border-width: 1px;*/
+}
+
+.dp{
+	position: absolute;
+	height: 68%;
+	width: 29%;
+	margin-left: 10%;
+	margin-top: 12%;
+	position: center;
+	background-image: url("./images/aryan_pic.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	border-radius: 4px;
+
+}
+
+
+
+.comings{
+  font-size: 72px;
+  background: -webkit-linear-gradient(90deg, rgba(3,189,184,1) 0%, rgba(1,182,69,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+/*----------scrollbar style---------*/
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3D3F40;
+  border-radius: 3px;
+}
+
+
+::-webkit-scrollbar-track-piece {
+
+    background: #757778;
+
+}
+/*-------------------------*/
+.plane{
+	position: absolute;
+	height: 30px;
+	width: 30px;
+	/*overflow:hidden;*/
+	margin-left: 3%;
+	margin-top: 3%;
+	z-index: 10;
+}
+
+/*---------------------*/
+
+.container{
+	position: absolute;
+	background-image: linear-gradient(-225deg, #2CD8D5 0%, #6B8DD6 48%, #8E37D7 100%);
+	width: 80vw;
+	height: 90vh;
+	margin-top: 50vh;
+	margin-left: 10vw;
+	transform:  translateY(-50%); 
+	border-radius: 4px;
+
+
+    color: white;
+	text-align: center;
+	font-family: 'Lexend Deca', sans-serif;
+    	display: flex;
+	align-items: center;
+	justify-content: center; 
+    padding:8vw;
+}
+
+.container2{
+	position: relative;
+		background-image: linear-gradient(-225deg, #FF057C 0%, #8D0B93 50%, #321575 100%);
+
+	width: 80vw; 
+	height: 90vh;
+
+	border-radius: 4px;
+
+	border-width: 3px;
+    padding:8vw;
+color: white;
+	text-align: center;
+	font-family: 'Lexend Deca', sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center; 
+}
+
+
+
+
+.s2{
+	width: 100%;
+	height: 100vh;
+	background-image: url(./images/cw.png);
+	background-repeat: all;
+	background-size: auto;
+	/*background-image: linear-gradient(to bottom, #f2bd00, #f2ab00, #f09800, #ed8605, #e97311, #e36121, #da4f2c, #cf3e34, #bd2e3f, #a82146, #911b4a, #78184a);*/
+/*	display: flex;
+	align-items: center;
+	justify-content: center;
+*/
+}
+
+
+.s3{
+	width: 100%;
+	height: 100vh;
+	/*background-image: linear-gradient(to bottom, #78184a, #6d2058, #5e2962, #4b306a, #35366e, #27366a, #173564, #05345e, #062f53, #082a48, #0a243d, #0b1f32);*/
+	background-image: url(./images/cw.png);
+	background-repeat: all;
+	background-size: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;/*
+  	-webkit-mask-image: url("./images/frnd.png");
+  	mask-image: url("./images/frnd.png");*/
+}
+
+.s4{
+	width: 100%;
+	height: 100vh;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-image: url(./images/cw.png);
+	background-repeat: all;
+	background-size: auto;
+	font-size: 4em;
+	font-family: 'Rock Salt', cursive;
+}
+
+
+@media only screen and (max-width: 700px){
+	.covercontent{
+		display: none;
+	}
+	.dp{
+	position: absolute;
+	height: 50%;
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 20vh;
+	position: center;
+	background-image: url("./images/aryan_pic.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	border-radius: 4px;
+
+	border-width: 1px;
+}
+.si{
+
+	height: 10vh;
+	width: 30vw;
+	position:relative;
+	margin-left: 15vw;
+	margin-top: 80vh;
+	transform: translate(0%);
+	border-color:1px solid white;
+	background-color: transparent;
+	color: white;
+	border-radius: 3px;
+	font-size: 2vh;
+	font-family: 'Lexend Deca', sans-serif;
+
+}
+.su{
+
+	height: 10vh;
+	width: 30vw;
+	position:relative;
+	margin-left: 10vw;
+	margin-top: 80vh;
+	transform: translate(0%);
+	border-color:1px solid white;
+	background-color: transparent;
+	color: white;
+	border-radius: 3px;
+	font-size: 2vh;
+	font-family: 'Lexend Deca', sans-serif;
+
+}
+.covertext{
+	color: #00A9F2;
+
+	font-size: 5vw;
+
+	position: absolute;
+
+	margin-left:50%;
+	transform: translate(-50%);
+	margin-top: 12vh;
+	font-family: 'Courier Prime', monospace;
+
+}
+
+h1{
+	color: white;
+	margin-top: 4vh;
+	margin-left: 0%;
+	transform: translate(33%);
+	font-size: 6vw;
+	position: absolute;
+	font-family: 'Julius Sans One', sans-serif;
+
+	/*margin-bottom: 50%;*/
+
+
+}
+
+.plane{
+	display: none;
+}
+.container{
+	position: absolute;
+background-image: linear-gradient(-225deg, #2CD8D5 0%, #6B8DD6 48%, #8E37D7 100%);
+	width: 100%;
+	height: 66vh;
+	border-width: 0px;
+	margin-left: 0%;
+	margin-top: 50vh;
+		transform: translateY(-75%);
+	padding:20px 10px 10px 10px;
+	font-family: 'Lexend Deca', sans-serif;
+	font-size: 2.2vh;
+    overflow:hidden;
+}
+.container2{
+
+	position: absolute;
+	background-image: linear-gradient(-225deg, #FF057C 0%, #8D0B93 50%, #321575 100%);
+	width: 100%;
+	height: 80vh;
+	margin-top: 10vh;
+	border-width: 0px;
+
+	margin-left: 0%;
+	padding:10px 40px 10px 50px;
+	font-family: 'Lexend Deca', sans-serif;
+	font-size: 2vh;
+overflow: hidden;
+}
+
+.break1{
+	height:1px;
+	width:100%;
+	position:absolute;
+	margin-top: 70vh;
+	background-color: #236088;
+	display: initial;
+	color: white;
+	text-align: center;
+	font-family: 'Lexend Deca', sans-serif;
+	font-size: 1em;
+}
+.break2{
+	height:1px;
+	width:110%;
+	margin-left: -15%;
+	position:absolute;
+	margin-top: -8vh;
+	background-color: #766F6F ;
+	display: initial;
+}
+
+.hide{
+	display:none;
+}
+.comings{
+	font-size: 10vw;
+}
+
+.grid {
+position: absolute;
+margin-top: 84vh;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10vh;
+
+  color: white;
+
+margin-left: 50vw;
+transform: translateX(-50%);
+  text-align: center;
+}
+.item{
+	padding: 10px;
+}
+.fb{
+    cursor:pointer;
+    border:none;
+    width:15vw;
+    height:15vw;
+	background: url("./images/logo-fb.png") no-repeat;
+background-size: contain;
+border-radius: 50%;
+outline:none;
+}
+.whatsapp{
+    cursor:pointer;
+    border:none;
+    width:15vw;
+    height:15vw;
+	background: url("./images/logo-whatsapp.png") no-repeat;
+background-size: contain;
+border-radius: 50%;
+outline:none;
+}
+.gmail{
+    cursor:pointer;
+    border:none;
+    width:15vw;
+    height:15vw;
+	background: url("./images/logo-gmail.png") no-repeat;
+background-size: contain;
+border-radius: 50%;
+outline:none;
+}
+.github{
+    cursor:pointer;
+    border:none;
+    width:15vw;
+    height:15vw;
+	background: url("./images/logo-github.png") no-repeat;
+background-size: contain;
+border-radius: 50%;
+outline:none;
+
+}
+
+
+}

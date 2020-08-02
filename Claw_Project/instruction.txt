@@ -1,0 +1,6 @@
+Hardware
+Put the trigpin of ultrasonic sensor in pin 7 on arduino. Put the echopin of ultrasonic sensor in pin 6 on arduino. Put vcc pin of ultrasinic sensor to 5v on arduino. Put servo to pin 8 on arduino. Put gnd of ultrasonic to gnd on arduino. and connect arduino with Pc.
+
+connect the motors as given in the pic
+
+use the circuit board to connect the motor and sonar together

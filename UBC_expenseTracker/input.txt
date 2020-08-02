@@ -1,0 +1,141 @@
+06-DEC-2019$-8.31
+Transaction ID: 37070798
+Location: TimHortons1
+08-DEC-2019$-4.98
+Transaction ID: 37111895
+Location: Magdas
+11-DEC-2019$-9.99
+Transaction ID: 37162520
+Location: TrekTims2
+15-DEC-2019$-9.77
+Transaction ID: 37219384
+Location: Magdas
+23-DEC-2019$391.03
+Transaction ID: 12899751
+Location: System
+27-DEC-2019$187.81
+Transaction ID: 12901510
+Location: System
+06-JAN-2020$-2.94
+Transaction ID: 12915612
+Location: Blue Chip Cookies
+06-JAN-2020$-8.93
+Transaction ID: 12916746
+Location: Blue Chip Cookies
+10-JAN-2020$-5.44
+Transaction ID: 37340370
+Location: Bookstore1
+13-JAN-2020$-2.94
+Transaction ID: 12951930
+Location: Blue Chip Cookies
+14-JAN-2020$-10.71
+Transaction ID: 12960208
+Location: Blue Chip Cookies
+14-JAN-2020$-5.19
+Transaction ID: 37404680
+Location: Magdas
+17-JAN-2020$-4.20
+Transaction ID: 12978932
+Location: Blue Chip Cookies
+17-JAN-2020$-4.94
+Transaction ID: 37451212
+Location: HeroCafe
+20-JAN-2020$-2.94
+Transaction ID: 12990382
+Location: Blue Chip Cookies
+21-JAN-2020$-2.63
+Transaction ID: 12997090
+Location: Blue Chip Cookies
+22-JAN-2020$-6.30
+Transaction ID: 13006378
+Location: Blue Chip Cookies
+22-JAN-2020$-5.88
+Transaction ID: 13006648
+Location: Blue Chip Cookies
+26-JAN-2020$-9.66
+Transaction ID: 37585566
+Location: Magdas
+28-JAN-2020$-5.88
+Transaction ID: 13040323
+Location: Blue Chip Cookies
+04-FEB-2020$-2.94
+Transaction ID: 13089171
+Location: Blue Chip Cookies
+05-FEB-2020$-5.25
+Transaction ID: 13098829
+Location: Blue Chip Cookies
+07-FEB-2020$-9.36
+Transaction ID: 37799445
+Location: TimHortons1
+10-FEB-2020$-15.72
+Transaction ID: 37849661
+Location: FredStarbucks1
+11-FEB-2020$-17.85
+Transaction ID: 13137467
+Location: Blue Chip Cookies
+20-FEB-2020$-59.67
+Transaction ID: 13176519
+Location: Domino's Pizza (10th Ave)
+25-FEB-2020$-2.63
+Transaction ID: 13195055
+Location: Blue Chip Cookies
+03-MAR-2020$-6.23
+Transaction ID: 38145892
+Location: Bookstore2
+04-MAR-2020$-4.19
+Transaction ID: 13245775
+Location: UBC Corner Store
+04-MAR-2020$-9.45
+Transaction ID: 13248356
+Location: Blue Chip Cookies
+06-MAR-2020$-4.38
+Transaction ID: 38197890
+Location: TimHortons1
+06-MAR-2020$-11.03
+Transaction ID: 13264935
+Location: Blue Chip Cookies
+10-MAR-2020$-9.45
+Transaction ID: 13283832
+Location: Blue Chip Cookies
+10-MAR-2020$-12.60
+Transaction ID: 13284089
+Location: Blue Chip Cookies
+11-MAR-2020$-5.78
+Transaction ID: 38292634
+Location: HeroCafe
+11-MAR-2020$-5.84
+Transaction ID: 38292646
+Location: HeroCafe
+12-MAR-2020$-33.58
+Transaction ID: 13303974
+Location: Domino's Pizza (10th Ave)
+13-MAR-2020$-1.42
+Transaction ID: 13305029
+Location: Domino's Pizza (10th Ave)
+16-MAR-2020$-13.91
+Transaction ID: 38349342
+Location: FredStarbucks1
+26-MAR-2020$-58.77
+Transaction ID: 13328882
+Location: Domino's Pizza (10th Ave)
+30-MAR-2020$-58.77
+Transaction ID: 13331692
+Location: Domino's Pizza (10th Ave)
+11-APR-2020$-41.96
+Transaction ID: 13342492
+Location: Domino's Pizza (10th Ave)
+14-APR-2020$-35.66
+Transaction ID: 13344588
+Location: Domino's Pizza (10th Ave)
+20-APR-2020$-38.81
+Transaction ID: 13353160
+Location: Domino's Pizza (10th Ave)
+20-APR-2020$-2.75
+Transaction ID: 13353252
+Location: Vendmaster
+29-APR-2020$-41.18
+Transaction ID: 13366892
+Location: Domino's Pizza (10th Ave)
+30-APR-2020$-3.82
+Transaction ID: 13367046
+Location: Domino's Pizza (10th Ave)

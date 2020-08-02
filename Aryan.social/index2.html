@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!-- Styling -->
+   	<link href="https://fonts.googleapis.com/css?family=Courier+Prime&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Julius+Sans+One|Lexend+Deca|Poiret+One|Rock+Salt|Shadows+Into+Light+Two&display=swap|Roboto:500&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="./style1.css">
+
+
+
+	<title>Aryan</title>
+
+</head>
+<body>
+<script<?php
+	session_start();
+	if (isset($_SESSION['username'])) {
+
+        
+        
+        	echo "welcome ".$_SESSION['username'];
+            echo "  ".$_SESSION['title'];
+        
+            
+
+
+
+
+	
+    }
+
+    else{
+		header("location: login.php");
+	}
+	?>
+    >
+
+    <a href="backend/logout.php"><button class="logout">Logout</button></a>
+
+
+
+
+
+</body>
+</html>

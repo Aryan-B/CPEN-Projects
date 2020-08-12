@@ -23,6 +23,7 @@
         $contact.=$_SESSION['contact'];
         $email.=$_SESSION['email'];
         $password.=$_SESSION['password'];
+        $details.=$_SESSION['track'];
 if(empty($uname)){$uname="NULL";}
 if(empty($lname)){$lname="NULL";}
 if(empty($contact)){$contact="NULL";}

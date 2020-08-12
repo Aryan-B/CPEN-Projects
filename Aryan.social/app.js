@@ -11,8 +11,16 @@
 });
 
 // typed js animation above
-
 $(document).ready(function() {
+               $(window).load(function(){
+                $('body').addClass('loaded');
+            });
+
+
+ 
+
+
+                            
 	$('#pagepiling').pagepiling({
 		scrollOverflow:true,
 		navigation:false,

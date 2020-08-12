@@ -9,12 +9,23 @@
 	<link href="https://fonts.googleapis.com/css?family=Julius+Sans+One|Lexend+Deca|Poiret+One|Rock+Salt|Shadows+Into+Light+Two&display=swap|Roboto:500&display=swap" rel="stylesheet">
    	<link rel="stylesheet" href="./pagePiling.min.css" />
 	<link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./preloading.css">
 
 	<title>Aryan</title>
 
 </head>
 
 <body>
+    <div id="loader-wrapper">
+		<div id="loader">
+			<div class="bar">
+  				<div class="circle"></div>
+  				<p class="loading">Loading</p>
+  			</div>
+		</div>
+  		<div class="loader-section section-left"></div>
+ 		<div class="loader-section section-right"></div>
+	</div>
 	<div id="pagepiling">
 		<section class="section s1">
 			<div class="cover">
@@ -49,7 +60,7 @@
 	<a href="https://www.facebook.com/aryan.b.370177"><button class="item fb"></button></a>
 	<a href="https://api.whatsapp.com/send?phone=919097995515"><button class="item whatsapp"></button></a>
 	<a href="mailto:baryan.edu@gmail.com?subject=Hi"><button class="item gmail"></button></a>
-	<a href="https://github.com/Aryan-B"><button class="item github"></button></a>
+	<a href="https://github.com"><button class="item github"></button></a>
 
 
 </div>
@@ -100,7 +111,8 @@
 
     
 <!-- my custom made js -->
-    
+    <script src="//code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.10/typed.min.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="pagePiling.min.js"></script>
@@ -117,8 +129,7 @@
 
 	<!-- ===================== -->
 
-    <script src="app.js"></script>
-
-
+    
+<script src="app.js"></script>
 </body>
 </html>
